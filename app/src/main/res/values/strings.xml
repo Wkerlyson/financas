@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Organizze</string>
+    <string name="tile_intro1">Organize suas contas de onde estiver</string>
+    <string name="title_activity_principal">Organizze</string>
+</resources>
